@@ -1,0 +1,11 @@
+target
+*.iml
+out/
+.idea
+.classpath
+.project
+.settings/
+/downloader.js
+/clickWebPage.js
+.DS_Store
+log/
